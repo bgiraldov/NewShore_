@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEBAPP", "WEBAPP\WEBAPP.csp
 		{F5E68882-9939-4481-BA44-33A7B6035592} = {F5E68882-9939-4481-BA44-33A7B6035592}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFTests", "WCFTests\WCFTests.csproj", "{996B076F-DE41-463A-962D-DE339A0FDAB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 		{2B16E649-2816-4117-A499-57A43077FFD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B16E649-2816-4117-A499-57A43077FFD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B16E649-2816-4117-A499-57A43077FFD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{996B076F-DE41-463A-962D-DE339A0FDAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{996B076F-DE41-463A-962D-DE339A0FDAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{996B076F-DE41-463A-962D-DE339A0FDAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{996B076F-DE41-463A-962D-DE339A0FDAB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
